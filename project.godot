@@ -15,7 +15,7 @@ config/description="Stewart es un RPG de fantasía, aventura y comedia que combi
 config/version="0.1"
 config/tags=PackedStringArray("gdd")
 run/main_scene="uid://cacld0petm7tj"
-config/features=PackedStringArray("4.6", "Forward Plus")
+config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="uid://b6368ena3wquo"
 
 [autoload]
